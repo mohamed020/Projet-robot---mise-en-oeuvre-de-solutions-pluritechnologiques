@@ -6,6 +6,6 @@
 </ head >
 <body >
 <h1 >Hello world !</h1 >
-<p>This is the first file in my new Git Repo .</p>
+<p>modif local .</p>
 </ body >
 </ html >
